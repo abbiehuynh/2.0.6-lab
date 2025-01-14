@@ -8,6 +8,14 @@ public class TemperatureConverter {
         double fahrenheit1 = 32.0;
         double fahrenheit2 = 98.6;
 
-        // TODO: Implement temperature conversion logic here
+        // Convert Celsius to Fahrenheit
+
+
+        // Convert Fahrenheit to Celsius
+
+
+        // Display the results formatted to two decimal places
+
+
     }
 }
